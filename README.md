@@ -26,3 +26,12 @@ The goal of this dashboard is to provide a clear understanding of EV growth patt
 -Clean and user-friendly layout for easy understanding
 
 -Dynamic visual exploration of EV data trends
+# Key Insights
+
+-Growth trends of electric vehicles across different years.
+
+-Comparison of different EV categories.
+
+-Regional distribution and adoption patterns.
+
+-Overall analysis of electric vehicle market data.
