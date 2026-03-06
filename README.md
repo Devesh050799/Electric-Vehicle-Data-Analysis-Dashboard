@@ -35,3 +35,5 @@ The goal of this dashboard is to provide a clear understanding of EV growth patt
 -Regional distribution and adoption patterns.
 
 -Overall analysis of electric vehicle market data.
+# Dashboard
+![Screenshot](https://github.com/Devesh050799/Electric-Vehicle-Data-Analysis-Dashboard/blob/main/Dashboard%20SS.jpg)
