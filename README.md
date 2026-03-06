@@ -12,3 +12,6 @@ The goal of this dashboard is to provide a clear understanding of EV growth patt
 -Provide interactive insights using filters and dynamic visuals.
 
 -Support data-driven decision making through visual analytics.
+
+# Dashboard Interaction 
+<a href="https://public.tableau.com/views/EVDashboard_17728019083440/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">view dashboard</a>
