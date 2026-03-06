@@ -15,3 +15,14 @@ The goal of this dashboard is to provide a clear understanding of EV growth patt
 
 # Dashboard Interaction 
 <a href="https://public.tableau.com/views/EVDashboard_17728019083440/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">view dashboard</a>
+# Dashboard Features
+
+-Interactive Filters to explore data by category or region
+
+-Visual Charts such as bar charts, line charts, and maps
+
+-Key Performance Indicators (KPIs) for quick insights
+
+-Clean and user-friendly layout for easy understanding
+
+-Dynamic visual exploration of EV data trends
