@@ -4,7 +4,11 @@ This project presents an interactive Electric Vehicle (EV) Dashboard created usi
 The goal of this dashboard is to provide a clear understanding of EV growth patterns, vehicle types, and regional distribution using data visualization techniques.
 ## Objectives
 -Analyze the distribution of electric vehicles.
+
 -Identify trends in EV adoption over time.
+
 -Compare different vehicle types and categories.
+
 -Provide interactive insights using filters and dynamic visuals.
+
 -Support data-driven decision making through visual analytics.
